@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @amarbamrah
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning machine lwarning
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... you can mail me @ jontybamrah@gmail.com
 
 <!---
